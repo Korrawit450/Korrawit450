@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Korrawit 👋
+### 🛡️ Cybersecurity Enthusiast | Python Security Tool Developer | Web & Infrastructure Auditing
 
-<!--
-**Korrawit450/Korrawit450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build lightweight, practical security tools in Python focusing on web application reconnaissance, misconfiguration auditing, defensive log analysis, and OSINT asset discovery.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Featured Security Tooling
+- 🔍 **[HTTP Security Headers Scanner](https://github.com/Korrawit450/http-headers-scanner)** – Evaluates web response headers against OWASP defensive best practices (CSP, HSTS, X-Frame-Options).
+- 🌐 **[WordPress Security Auditor](https://github.com/Korrawit450/wp-security-auditor)** – Non-intrusive scanner for detecting CMS version exposure, REST API user enumeration, and sensitive files.
+- 🛡️ **[Web Access Log Threat Detector](https://github.com/Korrawit450/log-threat-detector)** – Blue-team log parser that detects SQLi, XSS, Path Traversal, and high-volume brute-force anomalies in Nginx/Apache logs.
+- 🔐 **[SSL/TLS Certificate & Protocol Auditor](https://github.com/Korrawit450/ssl-tls-auditor)** – Inspects certificate lifecycles, cipher suites, and deprecated TLS 1.0/1.1 protocol support.
+- 📡 **[Passive Subdomain Finder](https://github.com/Korrawit450/passive-subdomain-finder)** – OSINT tool leveraging Certificate Transparency (`crt.sh`) logs and DNS resolution to map external attack surfaces.
+
+---
+
+### 🧠 Core Competencies
+- **Offensive & Recon:** Web Vulnerability Assessment, OWASP Top 10, CMS Hardening, OSINT Reconnaissance
+- **Defensive & Blue Team:** Web Server Log Analysis, Attack Signature Detection (Regex), TLS/Cryptographic Auditing
+- **Languages & Tech:** Python, Bash, Linux, Git, HTTP/HTTPS, DNS, Regular Expressions
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [Add Your LinkedIn URL]
+- **Email:** [Add Your Professional Email]
