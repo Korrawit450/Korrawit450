@@ -22,5 +22,4 @@ I build lightweight, practical security tools in Python focusing on web applicat
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** [Add Your LinkedIn URL]
-- **Email:** [Add Your Professional Email]
+- Email: korrawitlum@gmail.com
